@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NithishKannan4
 - 👀 I’m interested in Full Stack Development, Machine Learning, App Development
-- 🌱 I’m currently learning ... B.Tech Computer Science & Business System 
+- 🌱 I’m currently learning ... B.Tech Computer Science & Business Systems
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... https://www.linkedin.com/in/nithishkannan4/
 
